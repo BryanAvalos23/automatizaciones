@@ -7,10 +7,9 @@ Encontraras el repositorio dividido por carpetas una con scripts para windows y 
 Puedes decidir copiar el codigo del archivos que deseas o puedes clonar el repositorio con todos los scripts
 
 1. Clona el repositorio.
-```bash
-git clone https://github.com/BryanAvalos23/automatizaciones.git
-```
-
+   ```bash
+   git clone https://github.com/BryanAvalos23/automatizaciones.git
+   ```
 2. Muevete desde tu terminal a la carpeta clonada
 3. Ejecuta el script que necesites ej:
    ```bash
